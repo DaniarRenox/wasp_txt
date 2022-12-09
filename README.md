@@ -7,7 +7,7 @@
 
 Название          | Статус | Ссылка
 ------------------|--------|--------
-Автопарк          | 🟡     | <a href="https://github.com/DaniarRenox/wasp_txt/tree/master/Autopark">Перейти</a>
+Автопарк          | 🟢     | <a href="https://github.com/DaniarRenox/wasp_txt/tree/master/Autopark">Перейти</a>
 Музмаг            | 🟡     | <a href="https://github.com/DaniarRenox/wasp_txt/tree/master/MuzShop">Перейти</a>
 
 **Статусы выполнения:** <br>
